@@ -20,7 +20,7 @@ This repository serves as a central hub for all my projects across various domai
 
 Here are a few key projects you can explore:
 
-Bank Management System
+**Bank Management System**
 
 This project is a simple Bank Records Management System built using Python. It allows users to manage customer records efficiently by providing the following features:
 
